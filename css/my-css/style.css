@@ -57,9 +57,14 @@ p em {
   font-size: larger;
 }
 
+.highlight{
+  color: #B86D7F   ;
+}
 
-
-
+ul {
+  font-family: 'Quattrocento Sans', sans-serif;
+  list-style-image: url(/favicon_io/favicon-16x16.png) ;
+}
 
 
 

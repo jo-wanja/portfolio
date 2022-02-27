@@ -2,21 +2,20 @@ body{
   background-color: #D6D0D9 ;
 }
 
-nav{
-  
-  background-color: #B59793;
-  width: 100vw;
-  height: 10vh;
-}
+
+
 
 nav a {
   color: #a875b3
   
+}
 
+.nav{
+  
+  width: 100%;
+  background-color: #cf895a;
+  
 }
 
 
-<--D6D0D9 – almost white
-B59793 – pastel brown
-B86D7F – light pink
-846260 – darker brown-->
+

@@ -1,7 +1,22 @@
 body{
-  background-color: #B59793;
+  background-color: #D6D0D9 ;
 }
-D6D0D9 – almost white
+
+nav{
+  
+  background-color: #B59793;
+  width: 100vw;
+  height: 10vh;
+}
+
+nav a {
+  color: #a875b3
+  
+
+}
+
+
+<--D6D0D9 – almost white
 B59793 – pastel brown
 B86D7F – light pink
-846260 – darker brown
+846260 – darker brown-->

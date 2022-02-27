@@ -66,5 +66,24 @@ ul {
   list-style-image: url(/favicon_io/favicon-16x16.png) ;
 }
 
+.columns  {
+   
+  width: 350px;
+  height: 300px;
+  margin: 5%;
+  margin-left: 5%;
+  float: right;
+  background-color: #919fe7;
+  border-radius: 2%;
+  box-shadow: #D6D0D9;
+  
+}
 
+.columns a {
+  text-decoration: none;
+  font-family:Codystar, cursive; 
+  font-weight: bold;
+  color:#D6D0D9;
+  
+}
 

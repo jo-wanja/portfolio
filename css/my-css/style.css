@@ -6,16 +6,32 @@ body{
 
 
 nav a {
-  color: #a875b3
+  color: #D6D0D9;
+  font-family:Codystar, cursive; 
+  font-size: large;
+  font-weight: bold;
+  float: right;
   
+}
+
+ .navright{
+
+margin-left: 60%;
 }
 
 .nav{
   
   width: 100%;
-  background-color: #cf895a;
-  
+  background-color: #B59793;
+  height: 10vh;
 }
 
+.float{
+  float: right;
+}
 
-
+font-family: 'Codystar', cursive;
+font-family: 'Fira Sans Extra Condensed', sans-serif;
+font-family: 'Quattrocento Sans', sans-serif;
+font-family: 'Raleway', sans-serif;
+font-family: 'Taviraj', serif;
